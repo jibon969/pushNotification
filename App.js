@@ -66,17 +66,6 @@ const styles = StyleSheet.create({
     expoTitle:{
         textAlign:"center"
     },
-    backButton: {
-        padding: 7,
-        backgroundColor: "#183153",
-        textAlign: "center",
-        borderWidth: 1,
-        borderRadius: 8,
-        fontWeight: "bold",
-        borderColor: "#183153",
-        color: "#FFF",
-        overflow: "hidden"
-    }
 });
 
 
